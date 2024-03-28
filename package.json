@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/blackpuppy/camp-timestamp#readme",
   "dependencies": {
-    "express": "^4.17.3"
+    "express": "^4.19.2"
   }
 }
